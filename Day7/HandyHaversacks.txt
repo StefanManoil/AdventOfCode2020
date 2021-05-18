@@ -1,0 +1,8 @@
+light red bags contain 1 bright white bag, 2 muted yellow bags.
+dark orange bags contain 2 bright white bags, 3 muted yellow bags.
+bright white bags contain 1 shiny gold bag.
+dark brown bags contain no other bags.
+muted yellow bags contain 4 faded blue bags, 3 dark brown bags.
+faded blue bags contain 2 shiny gold bags.
+shiny gold bags contain 8 light green bags.
+light green bags contain no other bags.
